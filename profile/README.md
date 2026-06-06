@@ -1,6 +1,6 @@
 # Breachday — Cybersecurity Tabletop Exercise Platform
 
-**Spot your gaps. Secure your future.**
+**[breachday.io](https://breachday.io)** · Spot your gaps. Secure your future.
 
 Breachday is a browser-based platform for running Business Continuity (BC) and Incident Response (IR) tabletop exercises. Facilitators control the session in real time; participants join from any device using a 4-character room code — no accounts, no installs, no setup friction.
 
